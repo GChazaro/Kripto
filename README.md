@@ -61,3 +61,4 @@ Future updates may include modular validators, export routines, and documentatio
 
 ---
 
+![Kripto UI](Kripto.png)
